@@ -1,4 +1,4 @@
-# Mybatis
+# 😈 Mybatis
 1. 객체 지향 언어인 자바의 관계형 데이터베이스 프로그래밍을 보다 쉽게 도와주는 프레임워크
 2. 자바에서는 관계형 데이터베이스 프로그래밍을 하기위해 JDBC를 제공
   ```
@@ -8,7 +8,7 @@
   ```
 > 즉, MyBatis는 JDBC를 보다 편하게 사용하기 위해 개발됨
 ---
-# 특징
+# 📌 특징
 1. SQL문이 코드로부터 완전히 분리
   - Mapper파일에 SQL코드를 입력해 놓고 DAO파일에서 필요할 때마다 가져와서 사용
   - XML, 애노테이션 방식으로 SQL 문을 별도로 처리하는 작업이 가능
@@ -16,7 +16,7 @@
 3. Spring과의 연동으로 자동화된 처리
 4. 유지보수성 향상
 ---
-# 구성
+# 📌 구성
 1. MyBatis 환경설정 파일(SqlSessionConfig.xml): MyBatis가 JDBC코드를 실행하는데 필요한 전반에 걸친 세팅
   - TypAlias 설정: 사용할 모델 클래스에 대한 별칭 설정.\<typeAlias>
   - DB연동을 위한 설정: DataBase에 어떻게 접속할 것인지에 대한 설정. \<environment>
@@ -32,3 +32,4 @@
       - \<resultMap>
   ```
 ---
+▶ 참고 : https://velog.io/@wimes/2.-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-Spring-MyBatis-MySQL%EC%9D%98-%EC%84%A4%EC%A0%95-2zk4cf5gof
