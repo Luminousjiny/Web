@@ -1,5 +1,6 @@
 # Ⓜ GIT 
 
+> https://ssafyprj.github.io/git/?locale=ko  튜토리얼 학습 후 정리할 것    
 ## GIT branch 목록보기   
 #### - 로컬 저장소의 Branch 목록 보기    
 ```text
