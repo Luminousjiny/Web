@@ -1,7 +1,7 @@
 # Ⓜ GIT 
 
 > https://ssafyprj.github.io/git/?locale=ko  튜토리얼 학습 후 정리할 것    
-## GIT branch 목록보기   
+## 🎫 GIT branch 목록보기   
 #### - 로컬 저장소의 Branch 목록 보기    
 ```text
 git branch
@@ -40,7 +40,7 @@ git branch -d 삭제할 Branch 이름
 
 ---    
 
-## 원격 저장소의 branch 관리하기    
+## 🎫 원격 저장소의 branch 관리하기    
 #### - 원격저장소 branch 삭제하기   
 > push를 사용한다는 점 기억 !!      
 ```text 
