@@ -17,7 +17,7 @@ git branch -r
 git branch -a
 ```     
 ---    
-## GIT branch 관리하기 
+## 🎫 GIT branch 관리하기 
 #### - 현재 위치에서 새로운 Branch 생성하기   
 ```text
 git branch 생성할 Branch 이름
