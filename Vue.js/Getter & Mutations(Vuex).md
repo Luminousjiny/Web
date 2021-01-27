@@ -1,4 +1,4 @@
-# 👀 Vuex     
+# 👀 Vuex ➰ Getter & Mutations    
 > 변경된 state 값을 받아오는 ___Getters___ , state 값을 변경하기 위한 메서드를 정의하는 __Mutations__    
 
 ## ◽ Getters     
@@ -74,7 +74,7 @@ computed: {
 2. Actions 는 __비동기적__ 로직을 정의
 ```   
 
-> __commit__ 을 이용하여 state 변경   
+#### ☑ __commit__ 을 이용하여 state 변경   
 ![image](https://user-images.githubusercontent.com/72757829/105854564-6091e880-602a-11eb-85e1-633f7c663060.png)
 
 
