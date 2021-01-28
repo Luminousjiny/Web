@@ -45,4 +45,5 @@ new Vue({
 ```     
 ### ☑ 동작 흐름     
 ![image](https://user-images.githubusercontent.com/72757829/106003233-58eb4600-60f5-11eb-9ae9-032765b3fa8f.png)     
-
+---   
+[참고자료] https://joshua1988.github.io/web-development/vuejs/vuex-start/
