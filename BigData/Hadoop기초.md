@@ -10,7 +10,7 @@
 
 ---
 
-## RDBMS  VS  VoSQL
+## 🖍 RDBMS  VS  NoSQL
 
 ```
 ☑ RDBMS -> 수직적 확장
@@ -37,7 +37,7 @@
 
 ---
 
-## RDBMS VS 하둡
+## 🖍 RDBMS VS 하둡
 ![image](https://user-images.githubusercontent.com/72757829/107115496-6d2b0200-68b0-11eb-98cd-aaf8dd4e0161.png)
 - RDBMS와 하둡의 경계는 모호해지고 있다.
 - 하둡 시스템이 RDBMS를 모방하여 한계를 극복 → HiveQL
