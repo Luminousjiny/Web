@@ -1,10 +1,10 @@
-# HDFS 명령어(하둡2)
+# 🖨 HDFS 명령어(하둡2)
 
 ```
 ./bin/hdfs dfs-cmd [args]
 ```
 
-### HDFS내에 사용자 홈 디렉터리
+### ✔ HDFS내에 사용자 홈 디렉터리
 
 ```
 **/user/사용자명**
@@ -14,7 +14,7 @@
 ex> ./bin/hdfs dfs -ls data   -> /user/hadoop/data 디엑터리 조회
 ```
 
-### 자주 사용하는 HDFS 명령어
+### ✔ 자주 사용하는 HDFS 명령어
 
 ```
 mkdir : 디렉터리 생성
