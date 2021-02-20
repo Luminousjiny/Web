@@ -12,7 +12,7 @@
 
 
 ## vue instance     
-### ✅ vue instance 
+### ✅ vue instance 생성자   
 ```
 new Vue({
   // instance option properties
