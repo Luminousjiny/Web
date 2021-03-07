@@ -34,26 +34,24 @@ const [ count, setCount ] = useState(0);
     - 기존 state나 props가 변경될 때 호출
 
         ```jsx
-        useEffect{() => {
+        useEffect(() => {
               //code
-            }};
+            });
         ```
 
     - 해당 데이터가 변경될 때만 호출
 
         ```jsx
-        useEffect{() => {
+        useEffect(() => {
               //code
-            }, [count, age]};
+            }, [count, age]);
         // count, age가 변경될 때만 호출되도록 해줌
         ```
 
     - 마운트 되었을 때만 호출 → 처음에만 호출됨 !
 
         ```jsx
-        useEffect{() => {
+        useEffect(() => {
               //code
-            }, []};
+            }, []);
         ```
-
-- 그 외 `useCallback`, `useContext`, `useMemo`, `useReducer`, `useRef`...  다양함
