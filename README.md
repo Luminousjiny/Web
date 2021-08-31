@@ -3,3 +3,4 @@
 
 ◾ Backend : Spring, JPA     
 ◾ Frondend : Vue.js, React.js     
+◾ 그 외 : git    
